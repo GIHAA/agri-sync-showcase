@@ -1,73 +1,32 @@
-# Welcome to your Lovable project
+# Agri-sync
+Agri Sync is an advanced platform aimed at enhancing the agricultural value chain, connecting farmers, seed sellers, and other stakeholders. By integrating cutting-edge technologies, the platform improves transparency, facilitates secure transactions, and supports sustainable agricultural practices.
 
-## Project info
+## Status
+[![Price Prediction Service - Test](https://github.com/GIHAA/agri-sync/actions/workflows/price-prediction-service.yml/badge.svg)](https://github.com/GIHAA/agri-sync/actions/workflows/price-prediction-service.yml)
+<br>
+[![Reward Service - Test](https://github.com/GIHAA/agri-sync/actions/workflows/reward-service.yml/badge.svg)](https://github.com/GIHAA/agri-sync/actions/workflows/reward-service.yml)
+<br>
+[![User Service - Test and Deploy](https://github.com/GIHAA/agri-sync/actions/workflows/user-service.yml/badge.svg)](https://github.com/GIHAA/agri-sync/actions/workflows/user-service.yml)
+<br>
+[![Gateway Service - Build and Deploy](https://github.com/GIHAA/agri-sync/actions/workflows/gateway-service.yml/badge.svg)](https://github.com/GIHAA/agri-sync/actions/workflows/gateway-service.yml)
+<br>
+[![Chatbot Service - Test and Deploy](https://github.com/GIHAA/agri-sync/actions/workflows/chatbot-service.yml/badge.svg)](https://github.com/GIHAA/agri-sync/actions/workflows/chatbot-service.yml)
+<br>
+[![Seed Transaction Service - Test and Deploy](https://github.com/GIHAA/agri-sync/actions/workflows/seed-transaction-service.yml/badge.svg)](https://github.com/GIHAA/agri-sync/actions/workflows/seed-transaction-service.yml)
 
-**URL**: https://lovable.dev/projects/2bb48cd0-9244-49af-b1de-63c9b60fc282
+## Architectural Diagram
+![Frame 1](https://github.com/user-attachments/assets/44bd9744-ac31-4f6b-b80d-004f7f0b3a18)
 
-## How can I edit this code?
+## Componentss of the system
+- Rewards system with price prediction
+- Adaptive User Interfaces
+- AI chatbot and data visualization
+- Blockchain integration for vegetable seed transactions
+- Python flask server usage
+- RAG based chatbot
+- Neural network-based model
+- Microservice Architecture
+  
 
-There are several ways of editing your application.
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/2bb48cd0-9244-49af-b1de-63c9b60fc282) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/2bb48cd0-9244-49af-b1de-63c9b60fc282) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
