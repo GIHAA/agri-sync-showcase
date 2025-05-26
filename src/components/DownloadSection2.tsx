@@ -32,7 +32,7 @@ const documents = [
     title: "Final Presentation",
     type: "PPTX",
     date: "Apr 02, 2024",
-    link: "https://drive.google.com/drive/folders/1eDlx9k_5mppAJlHnkad553TY2NrQvR02",
+    link: "https://mysliit-my.sharepoint.com/:p:/g/personal/it21181856_my_sliit_lk/EWC7OSJYAM1IqW0t9vrvAhgBIIBne0XCQLdrkK95MHaPkg?e=hzJpiv",
   },
 ];
 
