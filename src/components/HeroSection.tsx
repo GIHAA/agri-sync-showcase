@@ -57,20 +57,7 @@ const HeroSection: React.FC = () => {
                   alt="Vegetable Market Data Analysis"
                   className="w-full h-auto rounded-md"
                 />
-                <div className="mt-4 grid grid-cols-2 gap-4">
-                  <div className="bg-blue-50 p-3 rounded-md">
-                    <h4 className="font-bold text-research-darkBlue">96%</h4>
-                    <p className="text-sm text-research-gray">
-                      Prediction Accuracy
-                    </p>
-                  </div>
-                  <div className="bg-green-50 p-3 rounded-md">
-                    <h4 className="font-bold text-research-green">10+</h4>
-                    <p className="text-sm text-research-gray">
-                      ML Models Tested
-                    </p>
-                  </div>
-                </div>
+        
               </div>
               <div className="absolute -bottom-10 -right-10 w-40 h-40 bg-research-blue/10 rounded-full"></div>
             </div>
