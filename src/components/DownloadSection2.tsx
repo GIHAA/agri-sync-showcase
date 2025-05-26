@@ -20,13 +20,13 @@ const documents = [
     title: "Progress Presentation I",
     type: "PPTX",
     date: "Mar 22, 2024",
-    link: "https://drive.google.com/drive/folders/1h5Vk7qa2_wbRDkBpdlQtodSd0eBtp-YN",
+    link: "https://drive.google.com/drive/folders/14RoXxI2OKOHzwOB5BFIeVkX6M0Bjs4SG?usp=sharing",
   },
   {
     title: "Progress Presentation II",
     type: "PPTX",
     date: "Feb 10, 2024",
-    link: "https://drive.google.com/drive/folders/1JgCJPV7fzJybQB_p4irnVm5L3WzEg5fS",
+    link: "https://docs.google.com/presentation/d/1iOQC9KVk111SutC0YTSKaxwSAyyJNW5L/edit?usp=sharing&ouid=112057154242570229062&rtpof=true&sd=true",
   },
   {
     title: "Final Presentation",
